@@ -9,6 +9,7 @@ console_i,CONSOLE
 console_release,CONSOLE RELEASE
 console_s,CONSOLE
 console_spend,CONSOLE
+digital_direct_spend,DIGITAL DIRECT
 dirdisp_progdisp_natdisp_s,DIRDISP PROGDISP NATDISP
 direct_audio,AUDIO - DIRECT
 direct_display,DISPLAY - DIRECT
@@ -43,7 +44,6 @@ facebook_s,FACEBOOK
 fb_insta_s,FB / IG
 fb_insta_twitter_s,FB INSTA TWITTER
 gp_discount_weighted,GP PROMOTIONS
-holiday,HOLIDAY EFFECTS
 impressions_audio_prog_direct,AUDIO - DIRECT & PROG
 impressions_direct_audio,AUDIO - DIRECT
 impressions_direct_display,DISPLAY - DIRECT
@@ -60,6 +60,7 @@ impressions_social_video,SOCIAL VIDEO
 impressions_video_prog_direct,VIDEO - DIRECT & PROG
 impressions_vodtv,VOD & TV
 inflation,INFLATION
+influencer_spend,INFLUENCER
 influencers,INFLUENCERS
 instagram,ORGANIC - IG
 key_partnerships,NON-MEDIA PARTNERSHIPS
@@ -68,6 +69,7 @@ minutes_streamed,TWITCH VIEWERSHIP
 minutes_watched,TWITCH VIEWERSHIP
 nhl_release_date_ea_play,NHL RELEASE DATE (EA PLAY)
 ooh_s,OOH
+ooh_spend,OOH
 other_dlc_releases,DLC RELEASE
 ott_directvideo_progvideo_i,OTT DIRECTVIDEO PROGVIDEO
 ott_directvideo_progvideo_s,OTT DIRECTVIDEO PROGVIDEO
@@ -76,9 +78,11 @@ out_of_home_spend,OUT OF HOME
 peak_viewers,TWITCH VIEWERSHIP
 platform_distribution_new,PLATFORM DISTRIBUTION NEW
 platform_distribution_reengaged,PLATFORM DISTRIBUTION REENGAGED
+print_spend,PRINT
 programmatic_audio,AUDIO - PROG
 programmatic_display,DISPLAY - PROG
 programmatic_display_programmatic_native,DISPLAY - PROG
+programmatic_spend,PROGRAMMATIC
 programmatic_video,VIDEO - PROG
 programmatic_video_s,PROGRAMMATIC VIDEO
 reengaged_players_all,REENGAGED PLAYERS ALL
@@ -88,7 +92,7 @@ rrp_price_by_retailer,PRICE
 school_closures,COVID
 search,SEARCH
 search_spend,SEARCH
-season,SEASONAL EFFECTS
+search_spend,SEARCH
 season_launch_new_3,SEASON LAUNCH
 season_launch_reengaged_1,SEASON LAUNCH
 snapchat_s,SNAPCHAT
@@ -97,6 +101,7 @@ snapchat_twitter_s,SNAPCHAT TWITTER
 social_display,SOCIAL DISPLAY
 social_display_s,SOCIAL DISPLAY
 social_display_spend,SOCIAL DISPLAY
+social_spend,SOCIAL
 social_video,SOCIAL VIDEO
 social_video_fb_spend,SOCIAL VIDEO OTHER SPEND
 social_video_other_spend,TWITTER SNAPCHAT SOCIAL VIDEO
@@ -129,6 +134,7 @@ twitter_snapchat_spend,TWITTER SNAPCHAT SOCIAL VIDEO
 unemployment,UNEMPLOYMENT
 video_prog_dir_spend,VIDEO PROG DIR
 video_prog_direct,VIDEO - DIRECT & PROG
+video_spend,VIDEO
 vod_tv_s,VOD TV
 vod_tv_spend,VOD TV
 vodtv,VOD TV
@@ -142,11 +148,3 @@ wau_xboxsx,WAU XBOXSX
 workplace_closures,COVID
 xmas,CHRISTMAS
 youtube_s,YOUTUBE
-influencer_spend,INFLUENCER
-ooh_spend,OOH
-print_spend,PRINT
-social_spend,SOCIAL
-digital_direct_spend,DIGITAL DIRECT
-video_spend,VIDEO
-search_spend,SEARCH
-programmatic_spend,PROGRAMMATIC
