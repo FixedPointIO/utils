@@ -4,7 +4,7 @@ audio_prog_direct,AUDIO - DIRECT & PROG
 bg_discount_weighted,BASE GAME PROMOTIONS
 change_in_deaths,COVID
 cinema,CINEMA
-competitor_spend,COMPETITOR SPEND
+competitor_spend,COMPETITOR
 console_i,CONSOLE
 console_release,CONSOLE RELEASE
 console_s,CONSOLE
@@ -103,9 +103,9 @@ social_display_s,SOCIAL DISPLAY
 social_display_spend,SOCIAL DISPLAY
 social_spend,SOCIAL
 social_video,SOCIAL VIDEO
-social_video_fb_spend,SOCIAL VIDEO OTHER SPEND
+social_video_fb_spend,SOCIAL VIDEO OTHER
 social_video_other_spend,TWITTER SNAPCHAT SOCIAL VIDEO
-social_video_spend_excl_youtube,SOCIAL VIDEO SPEND EXCL YT
+social_video_spend_excl_youtube,SOCIAL VIDEO EXCL YT
 social_video_tiktok_spend,TIKTOK
 social_video_youtube_spend,YOUTUBE
 social_video_yt_spend,YOUTUBE
@@ -121,16 +121,17 @@ tiktok_s,TIKTOK
 tiktok_social_video_s,TIKTOK SOCIAL VIDEO
 tiktok_social_video_spend,TIKTOK SOCIAL VIDEO
 tiktok_total_social_video_spend,TOKTOK
-total_competitor_spend,TOTAL COMPETITOR SPEND
-total_tv_i,TOTAL TV
-total_tv_s,TOTAL TV
+total_competitor_spend,TOTAL COMPETITOR
+total_tv_i,TV
+total_tv_s,TV
 tv_s,TV
-tv_total_spend,TV TOTAL
+tv_total_spend,TV
 twitch_minutes_watched,TWITCH MINUTES WATCHED
 twitter,ORGANIC - TWITTER
 twitter_snapchat_s,TWITTER SNAPCHAT
-twitter_snapchat_social_video_spend,TWITTER SNAPCHAT SOCIAL VIDEO
-twitter_snapchat_spend,TWITTER SNAPCHAT SOCIAL VIDEO
+twitter_snapchat_total_spend,TWITTER SNAPCHAT
+twitter_snapchat_social_video_spend,TWITTER SNAPCHAT
+twitter_snapchat_spend,TWITTER SNAPCHAT
 unemployment,UNEMPLOYMENT
 video_prog_dir_spend,VIDEO PROG DIR
 video_prog_direct,VIDEO - DIRECT & PROG
@@ -157,6 +158,7 @@ email_total_opens,EMAIL TOTAL OPENS
 engagement_montization_other_clicks,ENGAGEMENT MONETIZATION OTHER CLICKS
 organic_youtube_views,YOUTUBE VIEWS
 promo_discount_weighted,PROMO DISCOUNT WEIGHTED
-retail_spend,RETAIL SPEND
+retail_spend,RETAIL
 social_video_twitter_spend,TWITTER
 tv_total_spend_corrected,TV TOTAL
+youtube_social_video_spend,YOUTUBE
