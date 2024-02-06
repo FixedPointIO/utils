@@ -1,0 +1,165 @@
+variable,mapping
+audio_prog_dir_spend,AUDIO PROG DIR
+audio_prog_direct,AUDIO - DIRECT & PROG
+bg_discount_weighted,BASE GAME PROMOTIONS
+change_in_deaths,COVID
+cinema,CINEMA
+competitor_spend,COMPETITOR
+console_i,CONSOLE
+console_release,CONSOLE RELEASE
+console_s,CONSOLE
+console_spend,CONSOLE
+digital_direct_spend,DIGITAL DIRECT
+dirdisp_progdisp_natdisp_s,DIRDISP PROGDISP NATDISP
+direct_audio,AUDIO - DIRECT
+direct_display,DISPLAY - DIRECT
+direct_display_social_display,SOCIAL DISPLAY & DIRECT DISPLAY
+direct_prog_display_spend,DIRECT PROG DISPLAY
+direct_prog_video_spend,DIRECT PROG VIDEO
+direct_programmatic_audio_s,DIRECT PROGRAMMATIC AUDIO
+direct_programmatic_display_s,DIRECT PROGRAMMATIC DISPLAY
+direct_video,DIRECT VIDEO
+direct_video_s,DIRECT VIDEO
+directdisplay_progdisplay_i,DIRECTDISPLAY PROGDISPLAY
+directdisplay_progdisplay_s,DIRECTDISPLAY PROGDISPLAY
+dirvideo_progvideo_s,DIRVIDEO PROGVIDEO
+display_prog_dir_native_spend,DISPLAY PROG DIR NATIVE
+display_prog_direct_native,DISPLAY - DIRECT & PROG
+entitlements_new_adjusted,ENTITLEMENTS NEW ADJUSTED
+ep_discount_weighted,EP PROMOTIONS
+ep_releases,EP RELEASES
+exist_cust_base_all,EXIST CUST BASE ALL
+exist_cust_base_pcwin,EXIST CUST BASE PCWIN
+exist_cust_base_ps4,EXIST CUST BASE PS4
+exist_cust_base_ps5,EXIST CUST BASE PS5
+exist_cust_base_switch,EXIST CUST BASE SWITCH
+exist_cust_base_xboxone,EXIST CUST BASE XBOXONE
+exist_cust_base_xboxsx,EXIST CUST BASE XBOXSX
+facebook,FACEBOOK
+facebook_i,FACEBOOK
+facebook_insta_s,FACEBOOK INSTA
+facebook_insta_social_video_spend,FACEBOOK INSTA SOCIAL VIDEO
+facebook_insta_spend,FACEBOOK INSTAGRAM SOCIAL VIDEO
+facebook_s,FACEBOOK
+fb_insta_s,FB / IG
+fb_insta_twitter_s,FB INSTA TWITTER
+gp_discount_weighted,GP PROMOTIONS
+impressions_audio_prog_direct,AUDIO - DIRECT & PROG
+impressions_direct_audio,AUDIO - DIRECT
+impressions_direct_display,DISPLAY - DIRECT
+impressions_direct_display_social_display,SOCIAL DISPLAY
+impressions_direct_video,VIDEO - DIRECT
+impressions_display_prog_direct_native,DISPLAY - DIRECT & PROG
+impressions_programmatic_audio,AUDIO - PROG
+impressions_programmatic_display,DISPLAY - PROG
+impressions_programmatic_display_programmatic_native,DISPLAY - DIRECT & PROG
+impressions_programmatic_video,VIDEO - PROG
+impressions_search,SEARCH
+impressions_social_display,SOCIAL DISPLAY
+impressions_social_video,SOCIAL VIDEO
+impressions_video_prog_direct,VIDEO - DIRECT & PROG
+impressions_vodtv,VOD & TV
+inflation,INFLATION
+influencer_spend,INFLUENCER
+influencers,INFLUENCERS
+instagram,ORGANIC - IG
+key_partnerships,NON-MEDIA PARTNERSHIPS
+major_events,SIMS EVENTS
+minutes_streamed,TWITCH VIEWERSHIP
+minutes_watched,TWITCH VIEWERSHIP
+nhl_release_date_ea_play,NHL RELEASE DATE (EA PLAY)
+ooh_s,OOH
+ooh_spend,OOH
+other_dlc_releases,DLC RELEASE
+ott_directvideo_progvideo_i,OTT DIRECTVIDEO PROGVIDEO
+ott_directvideo_progvideo_s,OTT DIRECTVIDEO PROGVIDEO
+out_of_home,OUT OF HOME
+out_of_home_spend,OUT OF HOME
+peak_viewers,TWITCH VIEWERSHIP
+platform_distribution_new,PLATFORM DISTRIBUTION NEW
+platform_distribution_reengaged,PLATFORM DISTRIBUTION REENGAGED
+print_spend,PRINT
+programmatic_audio,AUDIO - PROG
+programmatic_display,DISPLAY - PROG
+programmatic_display_programmatic_native,DISPLAY - PROG
+programmatic_spend,PROGRAMMATIC
+programmatic_video,VIDEO - PROG
+programmatic_video_s,PROGRAMMATIC VIDEO
+reengaged_players_all,REENGAGED PLAYERS ALL
+restrictions_on_gatherings,COVID
+rpi_cpi,INFLATION
+rrp_price_by_retailer,PRICE
+school_closures,COVID
+search,SEARCH
+search_spend,SEARCH
+search_spend,SEARCH
+season_launch_new_3,SEASON LAUNCH
+season_launch_reengaged_1,SEASON LAUNCH
+snapchat_s,SNAPCHAT
+snapchat_twitter_i,SNAPCHAT TWITTER
+snapchat_twitter_s,SNAPCHAT TWITTER
+social_display,SOCIAL DISPLAY
+social_display_s,SOCIAL DISPLAY
+social_display_spend,SOCIAL DISPLAY
+social_spend,SOCIAL
+social_video,SOCIAL VIDEO
+social_video_fb_spend,SOCIAL VIDEO OTHER
+social_video_other_spend,TWITTER SNAPCHAT SOCIAL VIDEO
+social_video_spend_excl_youtube,SOCIAL VIDEO EXCL YT
+social_video_tiktok_spend,TIKTOK
+social_video_youtube_spend,YOUTUBE
+social_video_yt_spend,YOUTUBE
+sp_discount_weighted,SP PROMOTIONS
+spiketrap_conversation,CONVERSATION LEVELS
+spiketrap_social_sentiment,SOCIAL SENTIMENT
+st_conversn,ST CONVERSN
+stay_at_home_requirement_indicator,COVID
+stringency,COVID
+stringency_index_coronavirus,COVID
+tiktok_i,TIKTOK
+tiktok_s,TIKTOK
+tiktok_social_video_s,TIKTOK SOCIAL VIDEO
+tiktok_social_video_spend,TIKTOK SOCIAL VIDEO
+tiktok_total_social_video_spend,TOKTOK
+total_competitor_spend,TOTAL COMPETITOR
+total_tv_i,TV
+total_tv_s,TV
+tv_s,TV
+tv_total_spend,TV
+twitch_minutes_watched,TWITCH MINUTES WATCHED
+twitter,ORGANIC - TWITTER
+twitter_snapchat_s,TWITTER SNAPCHAT
+twitter_snapchat_total_spend,TWITTER SNAPCHAT
+twitter_snapchat_social_video_spend,TWITTER SNAPCHAT
+twitter_snapchat_spend,TWITTER SNAPCHAT
+unemployment,UNEMPLOYMENT
+video_prog_dir_spend,VIDEO PROG DIR
+video_prog_direct,VIDEO - DIRECT & PROG
+video_spend,VIDEO
+vod_tv_s,VOD TV
+vod_tv_spend,VOD TV
+vodtv,VOD TV
+wau_all,WAU ALL
+wau_pcwin,WAU PCWIN
+wau_ps4,WAU PS4
+wau_ps5,WAU PS5
+wau_switch,WAU SWITCH
+wau_xboxone,WAU XBOXONE
+wau_xboxsx,WAU XBOXSX
+workplace_closures,COVID
+xmas,CHRISTMAS
+youtube_s,YOUTUBE
+facebook_spend,FACEBOOK
+tv_spend,TV
+competitor_sales,COMPETITOR SALES
+acquisition_churn_prevention_clicks,ACQUISITION CHURN PREVENTION CLICKS
+display_prog_dir_spend,DISPLAY PROGRAMMATIC DIRECT
+email_total_opens,EMAIL TOTAL OPENS
+engagement_montization_other_clicks,ENGAGEMENT MONETIZATION OTHER CLICKS
+organic_youtube_views,YOUTUBE VIEWS
+promo_discount_weighted,PROMO DISCOUNT WEIGHTED
+retail_spend,RETAIL
+social_video_twitter_spend,TWITTER
+tv_total_spend_corrected,TV TOTAL
+youtube_social_video_spend,YOUTUBE
+tiktok_social_video_spend_total,TIKTOK
