@@ -183,3 +183,9 @@ st_conversn,ST CONVERSION
 competitor_spend,COMPETITOR
 ooh_spend,OOH
 youtube_total_spend,YOUTUBE
+out_of_home_spend_innov,OUT OF HOME
+programmatic_direct_display_spend,PROG DIRECT DISPLAY
+programmatic_direct_video_spend_innov,PROG DIRECT VIDEO
+social_video_excl_yt_spend,SOCIAL VIDEO EXCL YT
+tv_spons_vod_spend,TV SPONS VOD
+tv_total_spend_innov,TV
