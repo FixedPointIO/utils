@@ -6,15 +6,15 @@ stringency,stringency
 promo_discount_weighted,promo discount
 retail_spend,retail spend
 total_competitor_spend,total competitor spend
-console_spend,console 
-video_prog_dir_spend,video prog dir 
-display_prog_dir_spend,display prog dir 
-audio_prog_dir_spend,audio prog dir 
-social_video_twitter_spend,social video twitter 
+console_spend,console
+video_prog_dir_spend,video prog dir
+display_prog_dir_spend,display prog dir
+audio_prog_dir_spend,audio prog dir
+social_video_twitter_spend,social video twitter
 social_video_yt_spend,social video youtube
-social_video_other_spend,social video other 
+social_video_other_spend,social video other
 tv_total_spend_corrected,tv
-social_display_spend,social display 
+social_display_spend,social display
 clicks_aquisition_email,clicks aquisition email
 total_clicks_email,total clicks email
 clicks_churn_prevention_email,clicks churn prevention email
