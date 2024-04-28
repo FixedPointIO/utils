@@ -18,3 +18,31 @@ social_display_spend,social display
 clicks_aquisition_email,clicks aquisition email
 total_clicks_email,total clicks email
 clicks_churn_prevention_email,clicks churn prevention email
+console_spend,console
+fb_insta_social_video_spend,fb insta social video
+other_social_video_spend,other social video
+out_of_home_spend,out of home
+prog_direct_audio_spend,prog direct audio
+prog_direct_display_spend,prog direct display
+prog_direct_video_spend,prog direct video
+social_display_spend,social display
+social_video_spend,social video
+tiktok_social_video_spend,tiktok social video
+tv_spons_vod_spend,tv spons vod
+tv_total_spend,tv total
+tw_snap_social_video_spend,tw snap social video
+youtube_social_video_spend,youtube social video
+console_imp,console imp
+fb_insta_social_video_imp,fb insta social video imp
+other_social_video_imp,other social video imp
+out_of_home_imp,out of home imp
+prog_direct_audio_imp,prog direct audio imp
+prog_direct_display_imp,prog direct display imp
+prog_direct_video_imp,prog direct video imp
+social_display_imp,social display imp
+social_video_imp,social video imp
+tiktok_social_video_imp,tiktok social video imp
+tv_spons_vod_imp,tv spons vod imp
+tv_total_imp,tv total imp
+tw_snap_social_video_imp,tw snap social video imp
+youtube_social_video_imp,youtube social video imp
