@@ -7,7 +7,7 @@ console_imp,CONSOLE IMP
 console_spend,CONSOLE
 corrected_twitch_minutes_watched,TWITCH MINUTES WATCHED
 dg_asp,DG ASP
-display_prog_dir_spend,DISPLAY PROG DIR
+display_prog_dir_spend,DIGITAL DISPLAY
 ea_play,EA PLAY
 fb insta social video,META SOCIAL VIDEO
 fb_insta_social_video_imp,FB INSTA SOCIAL VIDEO IMP
@@ -60,7 +60,7 @@ tw snap social video,TWITTER / SNAPCHAT SOCIAL VIDEO
 tw_snap_social_video_imp,TW SNAP SOCIAL VIDEO IMP
 tw_snap_social_video_spend,TWITTER / SNAPCHAT SOCIAL VIDEO
 twitch_minutes_watched,TWITCH MINUTES WATCHED
-video_prog_dir_spend,VIDEO PROG DIR
+video_prog_dir_spend,DIGITAL VIDEO
 xmas,XMAS
 youtube social video,YOUTUBE
 youtube_social_video_imp,YOUTUBE SOCIAL VIDEO IMP
